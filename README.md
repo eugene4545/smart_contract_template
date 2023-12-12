@@ -3,8 +3,7 @@
 This is a simple Hardhat template that provides a starting point for developing
 smart contract applications on ZetaChain.
 
-## Prerequisites
-
+## Prerequisites   
 Before getting started, ensure that you have
 [Node.js](https://nodejs.org/en/download) (version 18 or above) and
 [Yarn](https://yarnpkg.com/) installed on your system.
